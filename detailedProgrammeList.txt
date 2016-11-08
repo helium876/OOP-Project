@@ -1,0 +1,264 @@
+TVJ NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;repeated
+World BBC NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;new
+TVJ NEWS;News;yes;White;1 hour;repeated
+World BBC NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;new
+World BBC NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;new
+World BBC NEWS;News;yes;White;1 hour;new
+TVJ NEWS;News;yes;White;1 hour;new
+TVJ NEWS;News;yes;White;1 hour;repeated
+World BBC NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;repeated
+TVJ NEWS;News;yes;White;1 hour;new
+World BBC NEWS;News;yes;White;1 hour;new
+TVJ NEWS;News;yes;White;1 hour;repeated
+World BBC NEWS;News;yes;White;1 hour;new
+TVJ NEWS;News;yes;White;1 hour;repeated
+World BBC NEWS;News;yes;White;1 hour;new
+TVJ NEWS;News;yes;White;1 hour;new
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;repeated
+Everyone's favourite show;Spongebob-Squarepants;yes;Purple;1;new
+Everyone's favourite show;Dora-The-Explorer;yes;Purple;1;repeated
+Everyone's favourite show;Spongebob-Squarepants;yes;Purple;1;repeated
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;repeated
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;repeated
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;repeated
+Everyone's favourite show;Spongebob-Squarepants;yes;Purple;1;new
+Everyone's favourite show;Dora-The-Explorer;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;new
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;new
+Everyone's favourite show;Dora-The-Explorer;yes;Purple;1;new
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;repeated
+Everyone's favourite show;Dora-The-Explorer;yes;Purple;1;new
+Everyone's favourite show;Spongebob-Squarepants;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;new
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;repeated
+Great show for toddlers;Dora-The-Explorer;yes;Purple;1;repeated
+Great show for toddlers;Spongebob-Squarepants;yes;Purple;1;new
+Everyone's favourite show;Dora-The-Explorer;yes;Purple;1;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Action packed Thriller;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;repeated
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Transporter;yes;Red;1 hour;new
+Number one Action movie in America;Transporter;yes;Red;1 hour;new
+Action packed Thriller;Transporter;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;repeated
+Action packed Thriller;Transporter;yes;Red;1 hour;repeated
+Number one Action movie in America;Die-Another-Day;yes;Red;1 hour;new
+Action packed Thriller;Transporter;yes;Red;1 hour;new
+Action packed Thriller;Die-Another-Day;yes;Red;1 hour;repeated
+Praise Jesus;Joice-Kenny;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;Joice-Kenny;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;Joice-Kenny;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;Joice-Kenny;yes;Blue;1 hour;new
+An hour of Praise;Joice-Kenny;yes;Blue;1 hour;new
+An hour of Praise;Joice-Kenny;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;An-Hour-Of-Praise;yes;Blue;1 hour;new
+Praise Jesus;Joice-Kenny;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;An-Hour-Of-Praise;yes;Blue;1 hour;new
+An hour of Praise;Joice-Kenny;yes;Blue;1 hour;new
+Praise Jesus;Joice-Kenny;yes;Blue;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;repeated
+Weather Alert;Weather;yes;Green;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;repeated
+Hourly update on the Weather;Weather;yes;Green;1 hour;repeated
+Weather Alert;Weather;yes;Green;1 hour;repeated
+Hourly update on the Weather;Weather;yes;Green;1 hour;new
+Hourly update on the Weather;Weather;yes;Green;1 hour;repeated
+Weather Alert;Weather;yes;Green;1 hour;repeated
+Weather Alert;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;repeated
+Hourly update on the Weather;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;repeated
+Weather Alert;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;repeated
+Weather Alert;Weather;yes;Green;1 hour;new
+Weather Alert;Weather;yes;Green;1 hour;repeated
+Hourly update on the Weather;Weather;yes;Green;1 hour;repeated
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Click;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;new
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Click;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;new
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;new
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;new
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;new
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;repeated
+Number one comedy in a America;Get-Hard;yes;Yellow;1 hour;new
+Number one comedy in a America;Click;yes;Yellow;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;James-Bond-007;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Good movie for everyone;Sherlock;yes;White;1 hour;new
+Good movie for everyone;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;repeated
+Perfect for the Entire Family;Sherlock;yes;White;1 hour;new
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;repeated
+Perfect for the Entire Family;James-Bond-007;yes;White;1 hour;new
